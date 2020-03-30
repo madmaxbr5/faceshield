@@ -4,7 +4,7 @@ Plans and instructions for a laser-cut face shield for COVID-19 PPE.<br>
 
 <a rel= "Changelog" href="https://docs.google.com/spreadsheets/d/1W2J-ytu9fVvlhKfiAqHdhAEgvUPn8Wbc3KxeLBzUL18/edit#gid=0">Current Changlog is here.</a>
 
-The intended material is .005"-.001" (5-10 mil) PET/Mylar/Duralar film or similar, and is available from craft stores or from plastic suppliers. A sourcing document is included in the files. 
+The intended material is .005"-.010" (5-10 mil) PET/Mylar/Duralar film or similar, and is available from craft stores or from plastic suppliers. A sourcing document is included in the files. 
 
 Different materials may also be compatible but results are not guaranteed. It is unlikely that this design will be compatible with substrates greater than .015"; modifications will be studied for thicker substrates. 
 
